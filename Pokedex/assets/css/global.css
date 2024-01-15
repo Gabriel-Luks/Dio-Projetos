@@ -1,0 +1,16 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6f8f6;
+}
+
+.contant{
+    padding: 1rem;
+    list-style: none;
+    margin: 0;
+    background-color: #fff;
+    height: 100vh;
+}
