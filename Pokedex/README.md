@@ -1,5 +1,4 @@
-# Bem-vindo ao projeto de [Nome do Projeto]
-
+# Bem-vindo ao projeto de Pokedex DIO
 Olá, eu sou Gabriel Lucas, sou um estudante de programação e este é o repositório do meu projeto [Nome do Projeto]. 
 
 ## Sobre Mim
